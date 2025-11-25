@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the exporter binary on GitHub
-exporter_url="https://raw.githubusercontent.com/limooSRE/user_exporter/refs/heads/main/user-metrics-exporter"
+exporter_url="https://github.com/limooSRE/user_exporter/raw/refs/heads/main/user-metrics-exporter"
 
 # Set the installation directory
 install_dir="/opt/user_resource"
